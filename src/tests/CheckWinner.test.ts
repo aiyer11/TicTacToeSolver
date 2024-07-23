@@ -1,4 +1,4 @@
-import { TicTacToeSolver } from "../src/TicTacToeSolver";
+import { TicTacToeSolver } from "../TicTacToeSolver";
 
 test('No winner test', () => {
     let board = 
